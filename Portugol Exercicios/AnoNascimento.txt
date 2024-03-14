@@ -1,0 +1,12 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	    inteiro ano, idade
+	    escreva("Insira seu ano de nascimento: ")
+	    leia(ano)
+	    idade = 2024 - ano
+	    escreva("Sua idade é de " + idade + " anos")
+	}
+}

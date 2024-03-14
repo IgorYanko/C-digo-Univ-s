@@ -1,0 +1,13 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real valorPeca,quantPecas,totalPecas
+		escreva("Insira o valor das peças: ")
+		leia(valorPeca)
+		escreva("Insira a quantidade de peças: ")
+		leia(quantPecas)
+		totalPecas = valorPeca * quantPecas
+	}
+}
