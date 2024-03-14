@@ -1,2 +1,2 @@
-# C-digo-Univ-s
-Código desenvolvidos durante as aulas
+# Codigo-Univas
+Códigos desenvolvidos durante as aulas
